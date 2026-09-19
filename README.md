@@ -4,8 +4,8 @@ The Ultimate HWP to TXT/PDF Batch Converter for AI
 - hwp2LLM은 대용량 HWP / HWPX 한글 문서를 PDF와 TXT 파일로 동시에 일괄 변환하는 데이터 전처리 도구입니다. 복잡한 한글 문서 내부의 텍스트 데이터를 AI 가공에 적합한 형태로 안전하게 추출합니다.
 
 ## ❓ 상세 설명 및 문의
-- X (Twitter): http://x.com/physhero
-- Web: http://ed.or.kr
+- 상세 설명 : [http://ed.or.kr](https://ed.or.kr/2026/09/20/hwp2llm01/)
+- X (Twitter) : http://x.com/physhero
 
 ## 🛡️ 보안 사항
 - 본 실행 파일은 바이러스 및 악성코드가 포함되어 있지 않습니다.
