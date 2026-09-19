@@ -3,16 +3,15 @@ The Ultimate HWP to TXT/PDF Batch Converter for AI
 
 - hwp2LLM은 대용량 HWP / HWPX 한글 문서를 PDF와 TXT 파일로 동시에 일괄 변환하는 데이터 전처리 도구입니다. 복잡한 한글 문서 내부의 텍스트 데이터를 AI 가공에 적합한 형태로 안전하게 추출합니다.
 
-## 🛡️ Security & Integrity
+## 🛡️ 보안 사항
+- 본 실행 파일은 바이러스 및 악성코드가 포함되어 있지 않습니다.
 
-본 실행 파일은 바이러스 및 악성코드가 포함되어 있지 않습니다.
-
-* **VirusTotal Scan:** [스캔 결과 보고서 링크] (0 / 72 Detected)
-* **SHA-256 Hash:** ``
-* **Official Support:** [http://x.com/physhero](http://x.com/physhero)
+* **VirusTotal 테스트:** [스캔 결과 보고서 링크](https://www.virustotal.com/gui/file/64ea36ce0e2c4cbb96f8cf37908106c78f6627ca8f1a53863b03ac3cd56d9635/detection) (69 회사의 바이러스 테스트 통과)
+* **SHA-256 Hash:** `64EA36CE0E2C4CBB96F8CF37908106C78F6627CA8F1A53863B03AC3CD56D9635`
+* **공식 지원:** [http://x.com/physhero](http://x.com/physhero)
 
 ## 🎯 개발 취지
-- 한국어 비정형 데이터의 핵심을 이루는 한글(HWP) 문서를 LLM(대형 언어 모델) 및 AI 파이프라인에서 즉시 활용할 수 있도록 돕기 위해 개발되었습니다. 텍스트 추출과 원본 확인용 PDF 변환을 동시에 수행하여 AI 데이터 준비 시간을 크게 단축합니다. 본 앱을 사용해서 많은 사용자들이 다양한 연구와 교육에 도움을 받기를 바랍니다.
+- 한국어 데이터의 핵심을 이루는 한글(HWP) 문서를 LLM(대형 언어 모델) 및 AI 파이프라인에서 즉시 활용할 수 있도록 돕기 위해 개발되었습니다. 텍스트 추출과 원본 확인용 PDF 변환을 동시에 수행하여 AI 데이터 준비 시간을 크게 단축합니다. 본 앱을 사용해서 많은 사용자들이 다양한 연구와 교육에 도움을 받기를 바랍니다.
 
 ## ✨ 핵심 기능
 1. PDF & TXT 동시 변환 (Dual Export): 문서 1개당 텍스트 분석용 TXT와 양식 확인용 PDF를 함께 생성합니다.
