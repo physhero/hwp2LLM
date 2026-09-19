@@ -5,6 +5,7 @@ The Ultimate HWP to TXT/PDF Batch Converter for AI
 
 ## 🛡️ 보안 사항
 - 본 실행 파일은 바이러스 및 악성코드가 포함되어 있지 않습니다.
+- v1.0.13의 보안 점검 사항은 아래와 같습니다.
 
 * **VirusTotal 테스트:** [스캔 결과 보고서 링크](https://www.virustotal.com/gui/file/64ea36ce0e2c4cbb96f8cf37908106c78f6627ca8f1a53863b03ac3cd56d9635/detection) (69 회사의 바이러스 테스트 통과)
 * **SHA-256 Hash:** `64EA36CE0E2C4CBB96F8CF37908106C78F6627CA8F1A53863B03AC3CD56D9635`
